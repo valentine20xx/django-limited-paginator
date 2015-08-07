@@ -12,7 +12,7 @@ setup(
     author_email="morozovns89@gmail.com",
     license="GPL3",
     description = "Limited Paginator",
-    long_description = open("README", "r").read(),
+    long_description = open("README.md", "r").read(),
     download_url = "https://github.com/valentine20xx/django-limited-paginator/archive/master.zip",
     classifiers=[
         "Operating System :: OS Independent",
