@@ -1,3 +1,3 @@
-# django-limited-pagginator
+# django-limited-paginator
 
 тест
